@@ -1,5 +1,4 @@
 # EDS 223 In-class coding
-Michaela Dennis
 
 ## Repo purpose
 This repo will house all of the in-class coding activities for EDS 223.
