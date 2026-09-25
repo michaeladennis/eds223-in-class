@@ -41,3 +41,10 @@ gdw_df |>
 sub_dam <- gdw_df |> 
   filter(dam_type == "Dam")
 sub_dam
+
+# arrange by year
+gdw_df <- gdw_df |>
+  arrange(year_dam)
+
+
+ggplot(gdw_df)
